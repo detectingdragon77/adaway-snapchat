@@ -1,4 +1,4 @@
-ase.adserver.snapads.com
-euw.adserver.snapads.com
-usc.adserver.snapads.com
-use.adserver.snapads.com
+127.0.0.1 ase.adserver.snapads.com
+127.0.0.1 euw.adserver.snapads.com
+127.0.0.1 usc.adserver.snapads.com
+127.0.0.1 use.adserver.snapads.com
